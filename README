@@ -3,7 +3,7 @@ This is the GitHub source code repository for a MSGEQ7 7-band graphic equalizer 
 In this folder are:
 1. README - this file
 2. MSGEQ7-schematic.png - the hardware schematic for the MSGEQ7 breakout board
-3. A "MSGEQ7_”Demo folder.  This is Arduino sample code for driving the MSGEQ7
+3. MSGEQ7_Demo.ino - the Arduino sample code for driving the MSGEQ7
 
 The breakout board for the MSGEQ7 is available from www.whizoo.com.
 
