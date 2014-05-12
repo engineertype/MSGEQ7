@@ -2,12 +2,22 @@
  MSGEQ7 Demo app
  Look for the breakout board on www.whizoo.com
  
+ This code runs on an Arduino Duemilanove, but will run on other Arduino models.
  
+ Connections:
+ - GND to GND on MSGEQ7 breakout board, and LED's
+ - 5V to VDD on MSGEQ7 breakout board
+ - A0 to OUT on MSGEQ7 breakout board
+ - D7 to STROBE on MSGEQ7 breakout board
+ - D8 to RESET on MSGEQ7 breakout board
+ - D3 to LED 0 (indicator for frequency band 0)
+ - D5 to LED 1 (indicator for frequency band 1)
+ - D6 to LED 2 (indicator for frequency band 2)
+ - D9 to LED 3 (indicator for frequency band 3)
+ - D10 to LED 4 (indicator for frequency band 4)
+ - D11 to LED 5 (indicator for frequency band 5)
  
 */
-
-// Include the library
-#include <EEPROM.h>
 
 // Hardware-specific defines
 #define MSGEQ7_STROBE_PIN      7
