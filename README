@@ -5,8 +5,13 @@ In this folder are:
 2. MSGEQ7-schematic.png - the hardware schematic for the MSGEQ7 breakout board
 3. MSGEQ7_Demo.ino - the Arduino sample code for driving the MSGEQ7
 
-The breakout board for the MSGEQ7 is available from www.whizoo.com.
+Breakout boards are available on eBay.  Please buy them and support my open-source efforts!
+http://www.ebay.com/itm/301210655107
+http://www.ebay.com/itm/251977940811
+http://www.ebay.com/itm/251977958119
 
-Peter Easton 2014
+Looking to build a reflow oven?  Check out the build guide:
+http://whizoo.com/reflowoven
+
+Peter Easton 2015
 Whizoo.com
-
